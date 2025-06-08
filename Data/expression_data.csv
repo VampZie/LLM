@@ -1,0 +1,6 @@
+gene_id,species,stage,log2_fold_change,p_value
+PF3D7_0100100,Plasmodium falciparum,liver,3.4,0.0005
+PF3D7_0100200,Plasmodium falciparum,blood,-1.2,0.03
+PF3D7_0100300,Plasmodium falciparum,liver,2.1,0.001
+PF3D7_0100400,Plasmodium falciparum,liver,-0.5,0.2
+PF3D7_0100500,Plasmodium falciparum,blood,1.9,0.005
